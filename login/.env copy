@@ -1,0 +1,4 @@
+NEXTAUTH_URL='http://localhost:3000'
+
+# you need create a new hash. Use this comand in shell $ openssl rand -base64 32
+NEXTAUTH_SECRET='put-your-hash-here'
